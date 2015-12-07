@@ -1,0 +1,227 @@
+/*Design by rabbnai
+email-golamrobbbani@gmail.com
+student id-1954
+======use techonology==== 
+css3
+bootstrap
+bootstrap modal
+bootstrap ccarosel
+bootstrap gried syestem
+bootstrap form
+and full site responsived*/
+
+.header_top{
+    padding: 30px 0px;
+}
+.header_area {
+    background-image:url(../img/header_background.png);
+    height: 430px;
+}
+
+.header_top ul {
+    text-decoration: none;
+    padding-top: 23px;
+}
+
+.text-right > ul > li {
+    list-style: none;
+}
+
+.text-right > ul > li > a {
+    text-decoration: none;
+}
+
+.text-right > ul > li > a > img {
+    padding-left: 11px;
+}
+
+.item > img {
+    width: 100%;
+    background-size: cover;
+}
+.glyphicon {
+background-image: url(../img/portfolio_large_control.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 213px;
+    right: -44%;
+
+}
+.glyphicon-r {
+background-image: url(../img/portfolio_large_control.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    position: relative;
+    top: 213px;
+    left:-44%;
+    transform: rotateY(160deg);
+
+}
+.glyphicon img{
+    position: absolute;
+    left: 14px;
+    top: 13px;
+}
+
+.welcome_text{
+  padding: 30px 0px;  
+}
+
+
+
+.text-center > h1 {
+    font-size: 78px;
+}
+.about img{
+    padding-right: 10px;
+}
+.about{
+    margin-bottom:60px;
+}
+
+.portfolio_area {
+    background-image: url(../img/portfolio_background.png);
+    padding: 100px 0px 36px 0px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.model_area img{
+    width: 100%;
+}
+
+.portfolio_caresel{
+    position: relative;
+}
+
+.portfolio_caresel> img{
+    width: 100%;
+    height: 665px;
+}
+.portfolio_caresel>.carousel {
+    background-image: url(../img/portfolio_large_bg.png);
+      position: relative;
+    height: 127px;
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    padding: 51px 72px;
+    color: #fff;
+    bottom: 129px;
+
+}
+.glyphicon-ll{
+background-image: url(../img/portfolio_large_control.png);
+    background-repeat: no-repeat;
+  width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 46px;
+    right: 16px;
+    transform: rotateY(160deg);
+
+}
+.glyphicon-rr {
+background-image: url(../img/portfolio_large_control.png);
+    background-repeat: no-repeat;
+   width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 46px;
+    right:0px;
+}
+.glyphicon img{
+    position: absolute;
+    left: 14px;
+    top: 13px;
+}
+
+.breadcrumb{
+    background:#fff;
+    padding-left: 0px;
+
+}
+
+.contact_area{
+    padding: 70px 0px 30px;
+}
+.contact_area img{
+   
+    float:left;
+    padding-right: 33px;
+
+}
+input#exampleInputPassword1 {
+    /* background: red; */
+    border:none;
+}
+
+
+.input-group {
+    position: relative;
+    display: table;
+    padding-bottom: 10px;
+    outline: none;
+    border: 2px solid red;
+    border: none;
+    border-collapse: separate;
+}
+
+span#basic-addon1 {
+    border: none;
+}
+address {
+    margin-top: 54px;
+    margin-bottom: 20px;
+    font-style: normal;}
+
+input#exampleInputEmail1{
+ background-image: url(../img/feedback_input_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+    height: 68px;
+    width: 100%;
+}
+
+textarea#exampleInputEmail1{
+ background-image: url(../img/feedback_message_bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 17px;
+    border:none;
+    outline: none;
+    overflow: hidden;
+    height:204px;
+    width: 100%;
+}
+
+
+.form-group img{
+ position: relative;
+    top: 43px;
+    left: 20px;
+}
+input#exampleInputEmail1{
+padding-left: 70px;
+border:none;
+}
+button.btn.btn-default {
+    background-image: url(../img/submit_bg.png);
+     height: 58px;
+    width: 137px;
+    margin-top: 30px;
+    border:none;
+}
+
+
+
+
+
+
+
+
+
